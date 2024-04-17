@@ -1,0 +1,20 @@
+{
+  "name": "billing-software-01-backend",
+  "version": "1.0.0",
+  "description": "Billing server",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm server",
+    "dev": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Karthik",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
